@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MAC0215 - Atividade Curricular em Pesquisa</title>
+    <link>http://linux.ime.usp.br/~arthur/ic/</link>
+    <description>Recent content on MAC0215 - Atividade Curricular em Pesquisa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Arthur Gabriel de Santana © 2017</copyright>
+    <lastBuildDate>Sat, 12 Aug 2017 19:10:00 -0300</lastBuildDate>
+    
+	<atom:link href="http://linux.ime.usp.br/~arthur/ic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atividades anteriores ao início da disciplina</title>
+      <link>http://linux.ime.usp.br/~arthur/ic/posts/my-first-post/</link>
+      <pubDate>Sat, 12 Aug 2017 19:10:00 -0300</pubDate>
+      
+      <guid>http://linux.ime.usp.br/~arthur/ic/posts/my-first-post/</guid>
+      <description>Durante as férias, li o capítulo 1 do livro Elementos de Programação Não-Linear e resolvi os exercícios 1.1-1.18.
+Ao começo do semestre, me reuni com o professor Ernesto e definimos o escopo do projeto. Escrevi a proposta da Iniciação Científica e configurei o site para acompanhamento pelos supervisores da disciplina MAC0215.</description>
+    </item>
+    
+    <item>
+      <title>Proposta</title>
+      <link>http://linux.ime.usp.br/~arthur/ic/proposta/</link>
+      <pubDate>Sat, 12 Aug 2017 10:30:44 -0300</pubDate>
+      
+      <guid>http://linux.ime.usp.br/~arthur/ic/proposta/</guid>
+      <description>Seu navegador não tem suporte a PDFs. Por favor faça o download aqui.</description>
+    </item>
+    
+  </channel>
+</rss>
