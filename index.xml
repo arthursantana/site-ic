@@ -6,10 +6,38 @@
     <description>Recent content on MAC0215 - Atividade Curricular em Pesquisa</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Arthur Gabriel de Santana © 2017</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 13:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2017 22:02:00 -0300</lastBuildDate>
     
 	<atom:link href="http://linux.ime.usp.br/~arthur/ic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semana 9</title>
+      <link>http://linux.ime.usp.br/~arthur/ic/posts/semana9/</link>
+      <pubDate>Sun, 29 Oct 2017 22:02:00 -0300</pubDate>
+      
+      <guid>http://linux.ime.usp.br/~arthur/ic/posts/semana9/</guid>
+      <description>Na semana 9, fiz todos os exercícios (4.1-4.11) do capítulo 4 do livro Elementos de Programação Não-Linear.</description>
+    </item>
+    
+    <item>
+      <title>Semana 8</title>
+      <link>http://linux.ime.usp.br/~arthur/ic/posts/semana8/</link>
+      <pubDate>Sun, 29 Oct 2017 22:01:00 -0300</pubDate>
+      
+      <guid>http://linux.ime.usp.br/~arthur/ic/posts/semana8/</guid>
+      <description>Na semana 8, fiz os exercícios 2.10-2.17 do livro Elementos de Programação Não-Linear, completando o capítulo.</description>
+    </item>
+    
+    <item>
+      <title>Semana 7</title>
+      <link>http://linux.ime.usp.br/~arthur/ic/posts/semana7/</link>
+      <pubDate>Sun, 29 Oct 2017 22:00:00 -0300</pubDate>
+      
+      <guid>http://linux.ime.usp.br/~arthur/ic/posts/semana7/</guid>
+      <description>Na semana 7, fiz os exercícios 2.1-2.9 do livro Elementos de Programação Não-Linear.
+Ficou claro que as doze horas semanais não são suficientes para fazer todos os exercícios do capítulo da forma mais correta e detalhada. Por isso, eu e meu orientador concordamos que os exercícios seriam feitos na ordem, sem pular nenhum, na velocidade possível, dando prioridade à qualidade sobre a quantidade.</description>
+    </item>
     
     <item>
       <title>Semanas 5 e 6</title>

@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://linux.ime.usp.br/~arthur/ic/posts/semana9/</loc>
+    <lastmod>2017-10-29T22:02:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linux.ime.usp.br/~arthur/ic/posts/semana8/</loc>
+    <lastmod>2017-10-29T22:01:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linux.ime.usp.br/~arthur/ic/posts/semana7/</loc>
+    <lastmod>2017-10-29T22:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://linux.ime.usp.br/~arthur/ic/posts/semanas5e6/</loc>
     <lastmod>2017-09-27T13:00:00-03:00</lastmod>
   </url>
@@ -44,13 +59,13 @@
   
   <url>
     <loc>http://linux.ime.usp.br/~arthur/ic/</loc>
-    <lastmod>2017-09-27T13:00:00-03:00</lastmod>
+    <lastmod>2017-10-29T22:02:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://linux.ime.usp.br/~arthur/ic/posts/</loc>
-    <lastmod>2017-09-27T13:00:00-03:00</lastmod>
+    <lastmod>2017-10-29T22:02:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
