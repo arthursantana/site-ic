@@ -6,10 +6,28 @@
     <description>Recent content on MAC0215 - Atividade Curricular em Pesquisa</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Arthur Gabriel de Santana © 2017</copyright>
-    <lastBuildDate>Sun, 29 Oct 2017 22:02:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Nov 2017 16:40:01 -0300</lastBuildDate>
     
 	<atom:link href="http://linux.ime.usp.br/~arthur/ic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semana 11</title>
+      <link>http://linux.ime.usp.br/~arthur/ic/posts/semana11/</link>
+      <pubDate>Sun, 12 Nov 2017 16:40:01 -0300</pubDate>
+      
+      <guid>http://linux.ime.usp.br/~arthur/ic/posts/semana11/</guid>
+      <description>Na semana 11, fiz metade dos exercícios (6.1-6.12) do capítulo 6 do livro Elementos de Programação Não-Linear.</description>
+    </item>
+    
+    <item>
+      <title>Semana 10</title>
+      <link>http://linux.ime.usp.br/~arthur/ic/posts/semana10/</link>
+      <pubDate>Sun, 12 Nov 2017 16:40:00 -0300</pubDate>
+      
+      <guid>http://linux.ime.usp.br/~arthur/ic/posts/semana10/</guid>
+      <description>Na semana 10, fiz todos os exercícios (3.1-3.5, 5.1-5.3) dos capítulos 3 e 5 do livro Elementos de Programação Não-Linear.</description>
+    </item>
     
     <item>
       <title>Semana 9</title>
